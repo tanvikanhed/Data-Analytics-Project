@@ -81,12 +81,18 @@ The Power BI dashboard includes:
 
 ## 📁 Project Structure
 Customer-Churn-Analysis/
+
 │
 ├── data/
+
 ├── notebooks/
+
 ├── reports/
+
 ├── dashboard/
+
 │ └── images/
+
 ├── README.md
 
 
