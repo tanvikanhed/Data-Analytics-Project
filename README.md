@@ -52,9 +52,6 @@ The Power BI dashboard includes:
 - Service-wise Churn Analysis  
 - Interactive Filters for better insights  
 
-### 📷 Dashboard Preview
-![Dashboard](dashboard/images/dashboard1.png)
-
 ---
 
 ## 📈 Key Insights
